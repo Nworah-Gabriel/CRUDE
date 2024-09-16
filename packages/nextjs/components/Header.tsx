@@ -103,8 +103,8 @@ export const Header = () => {
             <Image alt="SE2 logo" className="cursor-pointer" fill src="/logo.svg" />
           </div>
           <div className="flex flex-col">
-            <span className="font-bold leading-tight">SRE Challenges</span>
-            <span className="text-xs">#2: Token Vendor</span>
+            <span className="font-bold leading-tight">CRUDE</span>
+            <span className="text-xs">Token Vendor</span>
           </div>
         </Link>
         <ul className="hidden xl:flex xl:flex-nowrap menu menu-horizontal px-1 gap-2">
